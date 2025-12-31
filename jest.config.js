@@ -17,5 +17,6 @@ export default {
     '!src/main.jsx',
     '!src/index.js'
   ],
+  injectGlobals: true
   
 };
